@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalT
 - 👀 I’m interested in Coding, Deploying the OS, and Management
 - 🌱 I’m currently learning ...IT Management, and Software Deployment Methodologies.
-- 💞️ I’m looking to collaborate on ...OS Deployment via WaaS and GPOs
+- 💞️ I’m looking to collaborate on ...OS Deployment via WaaS, Azure, and GPOs
 - 📫 How to reach me ...
 
 <!---
